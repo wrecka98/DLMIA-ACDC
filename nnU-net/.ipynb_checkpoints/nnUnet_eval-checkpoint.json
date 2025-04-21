@@ -1,0 +1,3646 @@
+{
+    "foreground_mean": {
+        "Dice": 0.922024943150569,
+        "FN": 422.85999999999996,
+        "FP": 475.68333333333334,
+        "IoU": 0.8588862311172303,
+        "TN": 527883.5066666667,
+        "TP": 6236.830000000001,
+        "n_pred": 6712.513333333333,
+        "n_ref": 6659.69
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.915422716801162,
+            "FN": 491.65,
+            "FP": 455.75,
+            "IoU": 0.8487603415341983,
+            "TN": 527671.85,
+            "TP": 6399.63,
+            "n_pred": 6855.38,
+            "n_ref": 6891.28
+        },
+        "2": {
+            "Dice": 0.9056058196343624,
+            "FN": 507.63,
+            "FP": 709.72,
+            "IoU": 0.8285385376080296,
+            "TN": 527840.94,
+            "TP": 5960.59,
+            "n_pred": 6670.31,
+            "n_ref": 6468.22
+        },
+        "3": {
+            "Dice": 0.9450462930161824,
+            "FN": 269.3,
+            "FP": 261.58,
+            "IoU": 0.8993598142094628,
+            "TN": 528137.73,
+            "TP": 6350.27,
+            "n_pred": 6611.85,
+            "n_ref": 6619.57
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9597336385391738,
+                    "FN": 210,
+                    "FP": 177,
+                    "IoU": 0.9225845169033807,
+                    "TN": 588921,
+                    "TP": 4612,
+                    "n_pred": 4789,
+                    "n_ref": 4822
+                },
+                "2": {
+                    "Dice": 0.91,
+                    "FN": 372,
+                    "FP": 492,
+                    "IoU": 0.8348623853211009,
+                    "TN": 588688,
+                    "TP": 4368,
+                    "n_pred": 4860,
+                    "n_ref": 4740
+                },
+                "3": {
+                    "Dice": 0.9791214096065652,
+                    "FN": 157,
+                    "FP": 189,
+                    "IoU": 0.9590968199550775,
+                    "TN": 585461,
+                    "TP": 8113,
+                    "n_pred": 8302,
+                    "n_ref": 8270
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient101_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient101_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8699914748508099,
+                    "FN": 562,
+                    "FP": 48,
+                    "IoU": 0.7698981516408903,
+                    "TN": 591269,
+                    "TP": 2041,
+                    "n_pred": 2089,
+                    "n_ref": 2603
+                },
+                "2": {
+                    "Dice": 0.9111433305716653,
+                    "FN": 386,
+                    "FP": 472,
+                    "IoU": 0.8367890431805212,
+                    "TN": 588663,
+                    "TP": 4399,
+                    "n_pred": 4871,
+                    "n_ref": 4785
+                },
+                "3": {
+                    "Dice": 0.9768726268553676,
+                    "FN": 136,
+                    "FP": 132,
+                    "IoU": 0.9547908232118758,
+                    "TN": 587992,
+                    "TP": 5660,
+                    "n_pred": 5792,
+                    "n_ref": 5796
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient101_frame14.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient101_frame14.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9750836742283376,
+                    "FN": 167,
+                    "FP": 34,
+                    "IoU": 0.951378809869376,
+                    "TN": 438234,
+                    "TP": 3933,
+                    "n_pred": 3967,
+                    "n_ref": 4100
+                },
+                "2": {
+                    "Dice": 0.9141123882503193,
+                    "FN": 132,
+                    "FP": 406,
+                    "IoU": 0.841811231990591,
+                    "TN": 438967,
+                    "TP": 2863,
+                    "n_pred": 3269,
+                    "n_ref": 2995
+                },
+                "3": {
+                    "Dice": 0.9725257571027162,
+                    "FN": 139,
+                    "FP": 37,
+                    "IoU": 0.9465208143421452,
+                    "TN": 439077,
+                    "TP": 3115,
+                    "n_pred": 3152,
+                    "n_ref": 3254
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient102_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient102_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9445429222587997,
+                    "FN": 175,
+                    "FP": 44,
+                    "IoU": 0.8949136276391555,
+                    "TN": 440284,
+                    "TP": 1865,
+                    "n_pred": 1909,
+                    "n_ref": 2040
+                },
+                "2": {
+                    "Dice": 0.919063733784546,
+                    "FN": 199,
+                    "FP": 375,
+                    "IoU": 0.8502478476389251,
+                    "TN": 438535,
+                    "TP": 3259,
+                    "n_pred": 3634,
+                    "n_ref": 3458
+                },
+                "3": {
+                    "Dice": 0.8861911987860395,
+                    "FN": 72,
+                    "FP": 153,
+                    "IoU": 0.7956403269754768,
+                    "TN": 441267,
+                    "TP": 876,
+                    "n_pred": 1029,
+                    "n_ref": 948
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient102_frame13.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient102_frame13.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8986641478882742,
+                    "FN": 311,
+                    "FP": 440,
+                    "IoU": 0.8159764763538349,
+                    "TN": 493583,
+                    "TP": 3330,
+                    "n_pred": 3770,
+                    "n_ref": 3641
+                },
+                "2": {
+                    "Dice": 0.9283304647160069,
+                    "FN": 375,
+                    "FP": 666,
+                    "IoU": 0.8662469484774509,
+                    "TN": 489881,
+                    "TP": 6742,
+                    "n_pred": 7408,
+                    "n_ref": 7117
+                },
+                "3": {
+                    "Dice": 0.9715920988343687,
+                    "FN": 338,
+                    "FP": 69,
+                    "IoU": 0.9447536310574182,
+                    "TN": 490297,
+                    "TP": 6960,
+                    "n_pred": 7029,
+                    "n_ref": 7298
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient103_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient103_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6882375333079559,
+                    "FN": 494,
+                    "FP": 325,
+                    "IoU": 0.5246662797446314,
+                    "TN": 495941,
+                    "TP": 904,
+                    "n_pred": 1229,
+                    "n_ref": 1398
+                },
+                "2": {
+                    "Dice": 0.8927207940951896,
+                    "FN": 127,
+                    "FP": 1559,
+                    "IoU": 0.8062291690610275,
+                    "TN": 488963,
+                    "TP": 7015,
+                    "n_pred": 8574,
+                    "n_ref": 7142
+                },
+                "3": {
+                    "Dice": 0.9557777350509518,
+                    "FN": 426,
+                    "FP": 34,
+                    "IoU": 0.9153010495304732,
+                    "TN": 492233,
+                    "TP": 4971,
+                    "n_pred": 5005,
+                    "n_ref": 5397
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient103_frame11.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient103_frame11.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9487786724406252,
+                    "FN": 230,
+                    "FP": 527,
+                    "IoU": 0.9025489186405767,
+                    "TN": 471464,
+                    "TP": 7011,
+                    "n_pred": 7538,
+                    "n_ref": 7241
+                },
+                "2": {
+                    "Dice": 0.9009220649556586,
+                    "FN": 896,
+                    "FP": 791,
+                    "IoU": 0.8197071711018489,
+                    "TN": 469875,
+                    "TP": 7670,
+                    "n_pred": 8461,
+                    "n_ref": 8566
+                },
+                "3": {
+                    "Dice": 0.9622666316066264,
+                    "FN": 260,
+                    "FP": 314,
+                    "IoU": 0.9272773343468896,
+                    "TN": 471339,
+                    "TP": 7319,
+                    "n_pred": 7633,
+                    "n_ref": 7579
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient104_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient104_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8914453043296382,
+                    "FN": 362,
+                    "FP": 157,
+                    "IoU": 0.8041509433962264,
+                    "TN": 476582,
+                    "TP": 2131,
+                    "n_pred": 2288,
+                    "n_ref": 2493
+                },
+                "2": {
+                    "Dice": 0.9433841218925421,
+                    "FN": 303,
+                    "FP": 756,
+                    "IoU": 0.892835458409229,
+                    "TN": 469350,
+                    "TP": 8823,
+                    "n_pred": 9579,
+                    "n_ref": 9126
+                },
+                "3": {
+                    "Dice": 0.9041095890410958,
+                    "FN": 123,
+                    "FP": 101,
+                    "IoU": 0.825,
+                    "TN": 477952,
+                    "TP": 1056,
+                    "n_pred": 1157,
+                    "n_ref": 1179
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient104_frame11.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient104_frame11.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9670201381457341,
+                    "FN": 270,
+                    "FP": 69,
+                    "IoU": 0.9361461668864193,
+                    "TN": 588611,
+                    "TP": 4970,
+                    "n_pred": 5039,
+                    "n_ref": 5240
+                },
+                "2": {
+                    "Dice": 0.8669043374925728,
+                    "FN": 328,
+                    "FP": 1464,
+                    "IoU": 0.7650760356581018,
+                    "TN": 586292,
+                    "TP": 5836,
+                    "n_pred": 7300,
+                    "n_ref": 6164
+                },
+                "3": {
+                    "Dice": 0.9196487740225314,
+                    "FN": 171,
+                    "FP": 799,
+                    "IoU": 0.8512498083116087,
+                    "TN": 587399,
+                    "TP": 5551,
+                    "n_pred": 6350,
+                    "n_ref": 5722
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient105_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient105_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8850246561121204,
+                    "FN": 381,
+                    "FP": 62,
+                    "IoU": 0.7937616387337058,
+                    "TN": 591772,
+                    "TP": 1705,
+                    "n_pred": 1767,
+                    "n_ref": 2086
+                },
+                "2": {
+                    "Dice": 0.9205886252154315,
+                    "FN": 285,
+                    "FP": 913,
+                    "IoU": 0.8528617047408499,
+                    "TN": 585778,
+                    "TP": 6944,
+                    "n_pred": 7857,
+                    "n_ref": 7229
+                },
+                "3": {
+                    "Dice": 0.806537438236412,
+                    "FN": 114,
+                    "FP": 395,
+                    "IoU": 0.675796178343949,
+                    "TN": 592350,
+                    "TP": 1061,
+                    "n_pred": 1456,
+                    "n_ref": 1175
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient105_frame10.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient105_frame10.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.973985268766651,
+                    "FN": 159,
+                    "FP": 505,
+                    "IoU": 0.9492897510310065,
+                    "TN": 484570,
+                    "TP": 12430,
+                    "n_pred": 12935,
+                    "n_ref": 12589
+                },
+                "2": {
+                    "Dice": 0.8853491033956505,
+                    "FN": 467,
+                    "FP": 735,
+                    "IoU": 0.7942837583433168,
+                    "TN": 491821,
+                    "TP": 4641,
+                    "n_pred": 5376,
+                    "n_ref": 5108
+                },
+                "3": {
+                    "Dice": 0.976425790441963,
+                    "FN": 233,
+                    "FP": 318,
+                    "IoU": 0.9539374686507273,
+                    "TN": 485702,
+                    "TP": 11411,
+                    "n_pred": 11729,
+                    "n_ref": 11644
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient106_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient106_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9474902100391599,
+                    "FN": 480,
+                    "FP": 700,
+                    "IoU": 0.9002198545577541,
+                    "TN": 485838,
+                    "TP": 10646,
+                    "n_pred": 11346,
+                    "n_ref": 11126
+                },
+                "2": {
+                    "Dice": 0.8523836875358989,
+                    "FN": 670,
+                    "FP": 872,
+                    "IoU": 0.7427427427427428,
+                    "TN": 491670,
+                    "TP": 4452,
+                    "n_pred": 5324,
+                    "n_ref": 5122
+                },
+                "3": {
+                    "Dice": 0.9674241368093313,
+                    "FN": 354,
+                    "FP": 347,
+                    "IoU": 0.9369036903690369,
+                    "TN": 486554,
+                    "TP": 10409,
+                    "n_pred": 10756,
+                    "n_ref": 10763
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient106_frame13.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient106_frame13.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9626985793267548,
+                    "FN": 327,
+                    "FP": 206,
+                    "IoU": 0.9280798812575901,
+                    "TN": 490253,
+                    "TP": 6878,
+                    "n_pred": 7084,
+                    "n_ref": 7205
+                },
+                "2": {
+                    "Dice": 0.8847488115122704,
+                    "FN": 236,
+                    "FP": 661,
+                    "IoU": 0.7933179723502304,
+                    "TN": 493324,
+                    "TP": 3443,
+                    "n_pred": 4104,
+                    "n_ref": 3679
+                },
+                "3": {
+                    "Dice": 0.9750399071252358,
+                    "FN": 232,
+                    "FP": 112,
+                    "IoU": 0.9512954835055926,
+                    "TN": 490601,
+                    "TP": 6719,
+                    "n_pred": 6831,
+                    "n_ref": 6951
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient107_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient107_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8254904474932684,
+                    "FN": 1097,
+                    "FP": 264,
+                    "IoU": 0.7028384279475982,
+                    "TN": 493084,
+                    "TP": 3219,
+                    "n_pred": 3483,
+                    "n_ref": 4316
+                },
+                "2": {
+                    "Dice": 0.9299867899603699,
+                    "FN": 241,
+                    "FP": 289,
+                    "IoU": 0.8691358024691358,
+                    "TN": 493614,
+                    "TP": 3520,
+                    "n_pred": 3809,
+                    "n_ref": 3761
+                },
+                "3": {
+                    "Dice": 0.9682686954908146,
+                    "FN": 92,
+                    "FP": 79,
+                    "IoU": 0.9384892086330935,
+                    "TN": 494884,
+                    "TP": 2609,
+                    "n_pred": 2688,
+                    "n_ref": 2701
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient107_frame10.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient107_frame10.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9261493097440021,
+                    "FN": 913,
+                    "FP": 189,
+                    "IoU": 0.86245631552671,
+                    "TN": 606388,
+                    "TP": 6910,
+                    "n_pred": 7099,
+                    "n_ref": 7823
+                },
+                "2": {
+                    "Dice": 0.909103621871067,
+                    "FN": 641,
+                    "FP": 659,
+                    "IoU": 0.8333546981156262,
+                    "TN": 606599,
+                    "TP": 6501,
+                    "n_pred": 7160,
+                    "n_ref": 7142
+                },
+                "3": {
+                    "Dice": 0.9703698363492178,
+                    "FN": 164,
+                    "FP": 247,
+                    "IoU": 0.9424450357092844,
+                    "TN": 607259,
+                    "TP": 6730,
+                    "n_pred": 6977,
+                    "n_ref": 6894
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient108_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient108_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8394269831088305,
+                    "FN": 720,
+                    "FP": 31,
+                    "IoU": 0.7232866617538688,
+                    "TN": 611686,
+                    "TP": 1963,
+                    "n_pred": 1994,
+                    "n_ref": 2683
+                },
+                "2": {
+                    "Dice": 0.8979200472046025,
+                    "FN": 293,
+                    "FP": 1091,
+                    "IoU": 0.8147503680899478,
+                    "TN": 606929,
+                    "TP": 6087,
+                    "n_pred": 7178,
+                    "n_ref": 6380
+                },
+                "3": {
+                    "Dice": 0.7692904226444358,
+                    "FN": 116,
+                    "FP": 479,
+                    "IoU": 0.6250787649653434,
+                    "TN": 612813,
+                    "TP": 992,
+                    "n_pred": 1471,
+                    "n_ref": 1108
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient108_frame09.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient108_frame09.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9707808287019204,
+                    "FN": 173,
+                    "FP": 358,
+                    "IoU": 0.9432207014542344,
+                    "TN": 313208,
+                    "TP": 8821,
+                    "n_pred": 9179,
+                    "n_ref": 8994
+                },
+                "2": {
+                    "Dice": 0.9157717686634752,
+                    "FN": 421,
+                    "FP": 230,
+                    "IoU": 0.8446300715990454,
+                    "TN": 318370,
+                    "TP": 3539,
+                    "n_pred": 3769,
+                    "n_ref": 3960
+                },
+                "3": {
+                    "Dice": 0.9821153253160654,
+                    "FN": 135,
+                    "FP": 97,
+                    "IoU": 0.96485913359588,
+                    "TN": 315958,
+                    "TP": 6370,
+                    "n_pred": 6467,
+                    "n_ref": 6505
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient109_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient109_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9594921907625491,
+                    "FN": 215,
+                    "FP": 270,
+                    "IoU": 0.922138384973511,
+                    "TN": 316331,
+                    "TP": 5744,
+                    "n_pred": 6014,
+                    "n_ref": 5959
+                },
+                "2": {
+                    "Dice": 0.9368208238564569,
+                    "FN": 317,
+                    "FP": 183,
+                    "IoU": 0.8811504635131923,
+                    "TN": 318353,
+                    "TP": 3707,
+                    "n_pred": 3890,
+                    "n_ref": 4024
+                },
+                "3": {
+                    "Dice": 0.9694224235560589,
+                    "FN": 102,
+                    "FP": 87,
+                    "IoU": 0.9406593406593406,
+                    "TN": 319375,
+                    "TP": 2996,
+                    "n_pred": 3083,
+                    "n_ref": 3098
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient109_frame10.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient109_frame10.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9773114010209869,
+                    "FN": 170,
+                    "FP": 150,
+                    "IoU": 0.9556295063782585,
+                    "TN": 490452,
+                    "TP": 6892,
+                    "n_pred": 7042,
+                    "n_ref": 7062
+                },
+                "2": {
+                    "Dice": 0.8615517427430668,
+                    "FN": 672,
+                    "FP": 611,
+                    "IoU": 0.7567772511848341,
+                    "TN": 492389,
+                    "TP": 3992,
+                    "n_pred": 4603,
+                    "n_ref": 4664
+                },
+                "3": {
+                    "Dice": 0.9483621259322194,
+                    "FN": 118,
+                    "FP": 429,
+                    "IoU": 0.9017953321364452,
+                    "TN": 492094,
+                    "TP": 5023,
+                    "n_pred": 5452,
+                    "n_ref": 5141
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient110_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient110_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8067940552016986,
+                    "FN": 1209,
+                    "FP": 65,
+                    "IoU": 0.6761565836298933,
+                    "TN": 493730,
+                    "TP": 2660,
+                    "n_pred": 2725,
+                    "n_ref": 3869
+                },
+                "2": {
+                    "Dice": 0.9080935251798561,
+                    "FN": 198,
+                    "FP": 824,
+                    "IoU": 0.8316587053203756,
+                    "TN": 491593,
+                    "TP": 5049,
+                    "n_pred": 5873,
+                    "n_ref": 5247
+                },
+                "3": {
+                    "Dice": 0.8293587705352411,
+                    "FN": 145,
+                    "FP": 499,
+                    "IoU": 0.708465368945224,
+                    "TN": 495455,
+                    "TP": 1565,
+                    "n_pred": 2064,
+                    "n_ref": 1710
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient110_frame11.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient110_frame11.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8335200537754873,
+                    "FN": 273,
+                    "FP": 1213,
+                    "IoU": 0.7145601229350749,
+                    "TN": 323498,
+                    "TP": 3720,
+                    "n_pred": 4933,
+                    "n_ref": 3993
+                },
+                "2": {
+                    "Dice": 0.9186776859504132,
+                    "FN": 441,
+                    "FP": 543,
+                    "IoU": 0.8495872821767043,
+                    "TN": 322162,
+                    "TP": 5558,
+                    "n_pred": 6101,
+                    "n_ref": 5999
+                },
+                "3": {
+                    "Dice": 0.9499608194335609,
+                    "FN": 413,
+                    "FP": 34,
+                    "IoU": 0.9046908315565032,
+                    "TN": 324014,
+                    "TP": 4243,
+                    "n_pred": 4277,
+                    "n_ref": 4656
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient111_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient111_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9130576359492022,
+                    "FN": 165,
+                    "FP": 102,
+                    "IoU": 0.8400239664469742,
+                    "TN": 327035,
+                    "TP": 1402,
+                    "n_pred": 1504,
+                    "n_ref": 1567
+                },
+                "2": {
+                    "Dice": 0.9604683195592286,
+                    "FN": 388,
+                    "FP": 186,
+                    "IoU": 0.9239432887239963,
+                    "TN": 321157,
+                    "TP": 6973,
+                    "n_pred": 7159,
+                    "n_ref": 7361
+                },
+                "3": {
+                    "Dice": 0.9486338797814208,
+                    "FN": 86,
+                    "FP": 55,
+                    "IoU": 0.9022869022869023,
+                    "TN": 327261,
+                    "TP": 1302,
+                    "n_pred": 1357,
+                    "n_ref": 1388
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient111_frame07.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient111_frame07.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9695809830781628,
+                    "FN": 443,
+                    "FP": 161,
+                    "IoU": 0.9409579667644183,
+                    "TN": 624650,
+                    "TP": 9626,
+                    "n_pred": 9787,
+                    "n_ref": 10069
+                },
+                "2": {
+                    "Dice": 0.8818691588785047,
+                    "FN": 823,
+                    "FP": 1073,
+                    "IoU": 0.788699431628218,
+                    "TN": 625907,
+                    "TP": 7077,
+                    "n_pred": 8150,
+                    "n_ref": 7900
+                },
+                "3": {
+                    "Dice": 0.9653397391901167,
+                    "FN": 644,
+                    "FP": 164,
+                    "IoU": 0.9330016583747927,
+                    "TN": 622820,
+                    "TP": 11252,
+                    "n_pred": 11416,
+                    "n_ref": 11896
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient112_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient112_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9409171075837742,
+                    "FN": 319,
+                    "FP": 83,
+                    "IoU": 0.8884263114071607,
+                    "TN": 631277,
+                    "TP": 3201,
+                    "n_pred": 3284,
+                    "n_ref": 3520
+                },
+                "2": {
+                    "Dice": 0.9020075282308657,
+                    "FN": 734,
+                    "FP": 828,
+                    "IoU": 0.8215061135870186,
+                    "TN": 626129,
+                    "TP": 7189,
+                    "n_pred": 8017,
+                    "n_ref": 7923
+                },
+                "3": {
+                    "Dice": 0.9516431924882629,
+                    "FN": 439,
+                    "FP": 179,
+                    "IoU": 0.9077474249888043,
+                    "TN": 628181,
+                    "TP": 6081,
+                    "n_pred": 6260,
+                    "n_ref": 6520
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient112_frame12.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient112_frame12.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9720767888307156,
+                    "FN": 177,
+                    "FP": 175,
+                    "IoU": 0.9456706281833617,
+                    "TN": 355441,
+                    "TP": 6127,
+                    "n_pred": 6302,
+                    "n_ref": 6304
+                },
+                "2": {
+                    "Dice": 0.8991997275668313,
+                    "FN": 418,
+                    "FP": 766,
+                    "IoU": 0.8168600154679041,
+                    "TN": 355455,
+                    "TP": 5281,
+                    "n_pred": 6047,
+                    "n_ref": 5699
+                },
+                "3": {
+                    "Dice": 0.9801902110879146,
+                    "FN": 342,
+                    "FP": 85,
+                    "IoU": 0.9611500318442362,
+                    "TN": 350929,
+                    "TP": 10564,
+                    "n_pred": 10649,
+                    "n_ref": 10906
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient113_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient113_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9492648032852034,
+                    "FN": 144,
+                    "FP": 239,
+                    "IoU": 0.9034291477559253,
+                    "TN": 357954,
+                    "TP": 3583,
+                    "n_pred": 3822,
+                    "n_ref": 3727
+                },
+                "2": {
+                    "Dice": 0.9095289911394373,
+                    "FN": 342,
+                    "FP": 822,
+                    "IoU": 0.8340698503207413,
+                    "TN": 354905,
+                    "TP": 5851,
+                    "n_pred": 6673,
+                    "n_ref": 6193
+                },
+                "3": {
+                    "Dice": 0.9729849669939535,
+                    "FN": 345,
+                    "FP": 142,
+                    "IoU": 0.9473911634438803,
+                    "TN": 352663,
+                    "TP": 8770,
+                    "n_pred": 8912,
+                    "n_ref": 9115
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient113_frame08.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient113_frame08.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8826962597616111,
+                    "FN": 1172,
+                    "FP": 255,
+                    "IoU": 0.7900235432607416,
+                    "TN": 601460,
+                    "TP": 5369,
+                    "n_pred": 5624,
+                    "n_ref": 6541
+                },
+                "2": {
+                    "Dice": 0.9278259429013198,
+                    "FN": 1577,
+                    "FP": 1037,
+                    "IoU": 0.86536876802637,
+                    "TN": 588840,
+                    "TP": 16802,
+                    "n_pred": 17839,
+                    "n_ref": 18379
+                },
+                "3": {
+                    "Dice": 0.9490886235072281,
+                    "FN": 544,
+                    "FP": 590,
+                    "IoU": 0.90311004784689,
+                    "TN": 596552,
+                    "TP": 10570,
+                    "n_pred": 11160,
+                    "n_ref": 11114
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient114_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient114_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7378177966101694,
+                    "FN": 839,
+                    "FP": 1141,
+                    "IoU": 0.5845572807385648,
+                    "TN": 603490,
+                    "TP": 2786,
+                    "n_pred": 3927,
+                    "n_ref": 3625
+                },
+                "2": {
+                    "Dice": 0.938449572206378,
+                    "FN": 1565,
+                    "FP": 809,
+                    "IoU": 0.8840367330988668,
+                    "TN": 587784,
+                    "TP": 18098,
+                    "n_pred": 18907,
+                    "n_ref": 19663
+                },
+                "3": {
+                    "Dice": 0.9144352108341028,
+                    "FN": 398,
+                    "FP": 158,
+                    "IoU": 0.8423589452792741,
+                    "TN": 604729,
+                    "TP": 2971,
+                    "n_pred": 3129,
+                    "n_ref": 3369
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient114_frame11.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient114_frame11.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9691602675253902,
+                    "FN": 256,
+                    "FP": 242,
+                    "IoU": 0.9401658055989427,
+                    "TN": 544637,
+                    "TP": 7825,
+                    "n_pred": 8067,
+                    "n_ref": 8081
+                },
+                "2": {
+                    "Dice": 0.918165989553105,
+                    "FN": 579,
+                    "FP": 549,
+                    "IoU": 0.8487124463519313,
+                    "TN": 545504,
+                    "TP": 6328,
+                    "n_pred": 6877,
+                    "n_ref": 6907
+                },
+                "3": {
+                    "Dice": 0.9788114216527091,
+                    "FN": 218,
+                    "FP": 202,
+                    "IoU": 0.9585021242960182,
+                    "TN": 542839,
+                    "TP": 9701,
+                    "n_pred": 9903,
+                    "n_ref": 9919
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient115_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient115_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9436070412142933,
+                    "FN": 343,
+                    "FP": 192,
+                    "IoU": 0.893234883256835,
+                    "TN": 547949,
+                    "TP": 4476,
+                    "n_pred": 4668,
+                    "n_ref": 4819
+                },
+                "2": {
+                    "Dice": 0.9149114331723027,
+                    "FN": 615,
+                    "FP": 706,
+                    "IoU": 0.8431675175115755,
+                    "TN": 544537,
+                    "TP": 7102,
+                    "n_pred": 7808,
+                    "n_ref": 7717
+                },
+                "3": {
+                    "Dice": 0.9637652305486979,
+                    "FN": 244,
+                    "FP": 211,
+                    "IoU": 0.9300645557946511,
+                    "TN": 546454,
+                    "TP": 6051,
+                    "n_pred": 6262,
+                    "n_ref": 6295
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient115_frame13.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient115_frame13.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9361702127659575,
+                    "FN": 559,
+                    "FP": 95,
+                    "IoU": 0.88,
+                    "TN": 547510,
+                    "TP": 4796,
+                    "n_pred": 4891,
+                    "n_ref": 5355
+                },
+                "2": {
+                    "Dice": 0.916886775840817,
+                    "FN": 312,
+                    "FP": 632,
+                    "IoU": 0.8465290196715981,
+                    "TN": 546809,
+                    "TP": 5207,
+                    "n_pred": 5839,
+                    "n_ref": 5519
+                },
+                "3": {
+                    "Dice": 0.9664153529814942,
+                    "FN": 322,
+                    "FP": 70,
+                    "IoU": 0.9350132625994695,
+                    "TN": 546928,
+                    "TP": 5640,
+                    "n_pred": 5710,
+                    "n_ref": 5962
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient116_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient116_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8524706718805546,
+                    "FN": 345,
+                    "FP": 70,
+                    "IoU": 0.7428748451053284,
+                    "TN": 551346,
+                    "TP": 1199,
+                    "n_pred": 1269,
+                    "n_ref": 1544
+                },
+                "2": {
+                    "Dice": 0.921924611251323,
+                    "FN": 594,
+                    "FP": 365,
+                    "IoU": 0.8551578311433318,
+                    "TN": 546339,
+                    "TP": 5662,
+                    "n_pred": 6027,
+                    "n_ref": 6256
+                },
+                "3": {
+                    "Dice": 0.8368720870015536,
+                    "FN": 555,
+                    "FP": 75,
+                    "IoU": 0.7195013357079252,
+                    "TN": 550714,
+                    "TP": 1616,
+                    "n_pred": 1691,
+                    "n_ref": 2171
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient116_frame09.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient116_frame09.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9298165707424123,
+                    "FN": 1171,
+                    "FP": 524,
+                    "IoU": 0.8688385049911012,
+                    "TN": 540037,
+                    "TP": 11228,
+                    "n_pred": 11752,
+                    "n_ref": 12399
+                },
+                "2": {
+                    "Dice": 0.917963224893918,
+                    "FN": 533,
+                    "FP": 1091,
+                    "IoU": 0.8483660130718954,
+                    "TN": 542250,
+                    "TP": 9086,
+                    "n_pred": 10177,
+                    "n_ref": 9619
+                },
+                "3": {
+                    "Dice": 0.983544579889974,
+                    "FN": 452,
+                    "FP": 227,
+                    "IoU": 0.9676219541271279,
+                    "TN": 531989,
+                    "TP": 20292,
+                    "n_pred": 20519,
+                    "n_ref": 20744
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient117_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient117_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9247522809771411,
+                    "FN": 380,
+                    "FP": 387,
+                    "IoU": 0.8600364963503649,
+                    "TN": 547480,
+                    "TP": 4713,
+                    "n_pred": 5100,
+                    "n_ref": 5093
+                },
+                "2": {
+                    "Dice": 0.9149703799385328,
+                    "FN": 881,
+                    "FP": 1028,
+                    "IoU": 0.8432676518883415,
+                    "TN": 540780,
+                    "TP": 10271,
+                    "n_pred": 11299,
+                    "n_ref": 11152
+                },
+                "3": {
+                    "Dice": 0.9703562508216117,
+                    "FN": 252,
+                    "FP": 650,
+                    "IoU": 0.9424194063198212,
+                    "TN": 537295,
+                    "TP": 14763,
+                    "n_pred": 15413,
+                    "n_ref": 15015
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient117_frame13.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient117_frame13.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9603411513859275,
+                    "FN": 255,
+                    "FP": 303,
+                    "IoU": 0.9237079573420837,
+                    "TN": 490350,
+                    "TP": 6756,
+                    "n_pred": 7059,
+                    "n_ref": 7011
+                },
+                "2": {
+                    "Dice": 0.9146382127375792,
+                    "FN": 559,
+                    "FP": 465,
+                    "IoU": 0.8427035330261137,
+                    "TN": 491154,
+                    "TP": 5486,
+                    "n_pred": 5951,
+                    "n_ref": 6045
+                },
+                "3": {
+                    "Dice": 0.9687798427973261,
+                    "FN": 187,
+                    "FP": 238,
+                    "IoU": 0.9394500641116968,
+                    "TN": 490645,
+                    "TP": 6594,
+                    "n_pred": 6832,
+                    "n_ref": 6781
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient118_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient118_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7882114995665992,
+                    "FN": 668,
+                    "FP": 798,
+                    "IoU": 0.6504530281354316,
+                    "TN": 493470,
+                    "TP": 2728,
+                    "n_pred": 3526,
+                    "n_ref": 3396
+                },
+                "2": {
+                    "Dice": 0.9254805851267519,
+                    "FN": 362,
+                    "FP": 611,
+                    "IoU": 0.8612972202423379,
+                    "TN": 490649,
+                    "TP": 6042,
+                    "n_pred": 6653,
+                    "n_ref": 6404
+                },
+                "3": {
+                    "Dice": 0.9633306320907618,
+                    "FN": 252,
+                    "FP": 110,
+                    "IoU": 0.9292554230994724,
+                    "TN": 492547,
+                    "TP": 4755,
+                    "n_pred": 4865,
+                    "n_ref": 5007
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient118_frame10.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient118_frame10.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9796403535507467,
+                    "FN": 402,
+                    "FP": 266,
+                    "IoU": 0.9600931955313937,
+                    "TN": 598525,
+                    "TP": 16071,
+                    "n_pred": 16337,
+                    "n_ref": 16473
+                },
+                "2": {
+                    "Dice": 0.9074122922711686,
+                    "FN": 598,
+                    "FP": 455,
+                    "IoU": 0.8305166586190246,
+                    "TN": 609051,
+                    "TP": 5160,
+                    "n_pred": 5615,
+                    "n_ref": 5758
+                },
+                "3": {
+                    "Dice": 0.9789905068216008,
+                    "FN": 265,
+                    "FP": 140,
+                    "IoU": 0.9588456457677066,
+                    "TN": 605423,
+                    "TP": 9436,
+                    "n_pred": 9576,
+                    "n_ref": 9701
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient119_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient119_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9040580837546999,
+                    "FN": 1359,
+                    "FP": 121,
+                    "IoU": 0.8249142316337394,
+                    "TN": 606811,
+                    "TP": 6973,
+                    "n_pred": 7094,
+                    "n_ref": 8332
+                },
+                "2": {
+                    "Dice": 0.9330954504906334,
+                    "FN": 405,
+                    "FP": 345,
+                    "IoU": 0.8745819397993311,
+                    "TN": 609284,
+                    "TP": 5230,
+                    "n_pred": 5575,
+                    "n_ref": 5635
+                },
+                "3": {
+                    "Dice": 0.9649869559247563,
+                    "FN": 144,
+                    "FP": 111,
+                    "IoU": 0.9323427964977448,
+                    "TN": 611495,
+                    "TP": 3514,
+                    "n_pred": 3625,
+                    "n_ref": 3658
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient119_frame09.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient119_frame09.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8739521887612542,
+                    "FN": 207,
+                    "FP": 605,
+                    "IoU": 0.7761235180590019,
+                    "TN": 489429,
+                    "TP": 2815,
+                    "n_pred": 3420,
+                    "n_ref": 3022
+                },
+                "2": {
+                    "Dice": 0.9093805641458158,
+                    "FN": 353,
+                    "FP": 614,
+                    "IoU": 0.8338202440281836,
+                    "TN": 487237,
+                    "TP": 4852,
+                    "n_pred": 5466,
+                    "n_ref": 5205
+                },
+                "3": {
+                    "Dice": 0.9701225191660099,
+                    "FN": 322,
+                    "FP": 95,
+                    "IoU": 0.9419785724224294,
+                    "TN": 485869,
+                    "TP": 6770,
+                    "n_pred": 6865,
+                    "n_ref": 7092
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient120_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient120_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8605031035609279,
+                    "FN": 299,
+                    "FP": 128,
+                    "IoU": 0.7551605504587156,
+                    "TN": 491312,
+                    "TP": 1317,
+                    "n_pred": 1445,
+                    "n_ref": 1616
+                },
+                "2": {
+                    "Dice": 0.9221321542618521,
+                    "FN": 301,
+                    "FP": 650,
+                    "IoU": 0.8555150410209663,
+                    "TN": 486474,
+                    "TP": 5631,
+                    "n_pred": 6281,
+                    "n_ref": 5932
+                },
+                "3": {
+                    "Dice": 0.9701069168666813,
+                    "FN": 163,
+                    "FP": 111,
+                    "IoU": 0.9419491525423729,
+                    "TN": 488336,
+                    "TP": 4446,
+                    "n_pred": 4557,
+                    "n_ref": 4609
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient120_frame08.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient120_frame08.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.975131267670648,
+                    "FN": 172,
+                    "FP": 259,
+                    "IoU": 0.9514694291183425,
+                    "TN": 309839,
+                    "TP": 8450,
+                    "n_pred": 8709,
+                    "n_ref": 8622
+                },
+                "2": {
+                    "Dice": 0.9114848129318212,
+                    "FN": 375,
+                    "FP": 304,
+                    "IoU": 0.8373652694610778,
+                    "TN": 314545,
+                    "TP": 3496,
+                    "n_pred": 3800,
+                    "n_ref": 3871
+                },
+                "3": {
+                    "Dice": 0.9814814814814815,
+                    "FN": 134,
+                    "FP": 88,
+                    "IoU": 0.9636363636363636,
+                    "TN": 312615,
+                    "TP": 5883,
+                    "n_pred": 5971,
+                    "n_ref": 6017
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient121_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient121_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9232221522970422,
+                    "FN": 616,
+                    "FP": 116,
+                    "IoU": 0.8573933372296902,
+                    "TN": 313587,
+                    "TP": 4401,
+                    "n_pred": 4517,
+                    "n_ref": 5017
+                },
+                "2": {
+                    "Dice": 0.9360853758648997,
+                    "FN": 216,
+                    "FP": 329,
+                    "IoU": 0.8798500881834215,
+                    "TN": 314184,
+                    "TP": 3991,
+                    "n_pred": 4320,
+                    "n_ref": 4207
+                },
+                "3": {
+                    "Dice": 0.9568986274981941,
+                    "FN": 77,
+                    "FP": 102,
+                    "IoU": 0.91735918744229,
+                    "TN": 316554,
+                    "TP": 1987,
+                    "n_pred": 2089,
+                    "n_ref": 2064
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient121_frame10.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient121_frame10.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9660023446658851,
+                    "FN": 188,
+                    "FP": 102,
+                    "IoU": 0.9342403628117913,
+                    "TN": 358470,
+                    "TP": 4120,
+                    "n_pred": 4222,
+                    "n_ref": 4308
+                },
+                "2": {
+                    "Dice": 0.9218764514630747,
+                    "FN": 551,
+                    "FP": 290,
+                    "IoU": 0.8550749612269516,
+                    "TN": 357077,
+                    "TP": 4962,
+                    "n_pred": 5252,
+                    "n_ref": 5513
+                },
+                "3": {
+                    "Dice": 0.9763226753462251,
+                    "FN": 110,
+                    "FP": 261,
+                    "IoU": 0.9537406483790524,
+                    "TN": 354860,
+                    "TP": 7649,
+                    "n_pred": 7910,
+                    "n_ref": 7759
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient122_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient122_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9187956204379562,
+                    "FN": 294,
+                    "FP": 62,
+                    "IoU": 0.849789029535865,
+                    "TN": 360510,
+                    "TP": 2014,
+                    "n_pred": 2076,
+                    "n_ref": 2308
+                },
+                "2": {
+                    "Dice": 0.9195280859306216,
+                    "FN": 497,
+                    "FP": 417,
+                    "IoU": 0.8510430247718384,
+                    "TN": 356744,
+                    "TP": 5222,
+                    "n_pred": 5639,
+                    "n_ref": 5719
+                },
+                "3": {
+                    "Dice": 0.9627312045642772,
+                    "FN": 210,
+                    "FP": 195,
+                    "IoU": 0.9281405251951739,
+                    "TN": 357244,
+                    "TP": 5231,
+                    "n_pred": 5426,
+                    "n_ref": 5441
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient122_frame06.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient122_frame06.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8824007807417046,
+                    "FN": 273,
+                    "FP": 1173,
+                    "IoU": 0.7895502838014845,
+                    "TN": 435497,
+                    "TP": 5425,
+                    "n_pred": 6598,
+                    "n_ref": 5698
+                },
+                "2": {
+                    "Dice": 0.8358761987794245,
+                    "FN": 620,
+                    "FP": 886,
+                    "IoU": 0.7180303313986145,
+                    "TN": 437027,
+                    "TP": 3835,
+                    "n_pred": 4721,
+                    "n_ref": 4455
+                },
+                "3": {
+                    "Dice": 0.8976317799847212,
+                    "FN": 156,
+                    "FP": 916,
+                    "IoU": 0.8142758142758143,
+                    "TN": 436596,
+                    "TP": 4700,
+                    "n_pred": 5616,
+                    "n_ref": 4856
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient123_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient123_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8590795576168391,
+                    "FN": 626,
+                    "FP": 164,
+                    "IoU": 0.7529706066291432,
+                    "TN": 439170,
+                    "TP": 2408,
+                    "n_pred": 2572,
+                    "n_ref": 3034
+                },
+                "2": {
+                    "Dice": 0.9176329124796014,
+                    "FN": 404,
+                    "FP": 555,
+                    "IoU": 0.8478019362006031,
+                    "TN": 436067,
+                    "TP": 5342,
+                    "n_pred": 5897,
+                    "n_ref": 5746
+                },
+                "3": {
+                    "Dice": 0.7887579329102448,
+                    "FN": 38,
+                    "FP": 661,
+                    "IoU": 0.6511976047904192,
+                    "TN": 440364,
+                    "TP": 1305,
+                    "n_pred": 1966,
+                    "n_ref": 1343
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient123_frame11.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient123_frame11.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9650978653322354,
+                    "FN": 479,
+                    "FP": 623,
+                    "IoU": 0.932549883706696,
+                    "TN": 717486,
+                    "TP": 15236,
+                    "n_pred": 15859,
+                    "n_ref": 15715
+                },
+                "2": {
+                    "Dice": 0.9131098669381226,
+                    "FN": 496,
+                    "FP": 699,
+                    "IoU": 0.8401123896173401,
+                    "TN": 726350,
+                    "TP": 6279,
+                    "n_pred": 6978,
+                    "n_ref": 6775
+                },
+                "3": {
+                    "Dice": 0.956395009910225,
+                    "FN": 399,
+                    "FP": 349,
+                    "IoU": 0.916433917997989,
+                    "TN": 724873,
+                    "TP": 8203,
+                    "n_pred": 8552,
+                    "n_ref": 8602
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient124_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient124_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8895040369088812,
+                    "FN": 2190,
+                    "FP": 205,
+                    "IoU": 0.800997091815538,
+                    "TN": 721789,
+                    "TP": 9640,
+                    "n_pred": 9845,
+                    "n_ref": 11830
+                },
+                "2": {
+                    "Dice": 0.9232668442596322,
+                    "FN": 526,
+                    "FP": 655,
+                    "IoU": 0.8574704320540671,
+                    "TN": 725538,
+                    "TP": 7105,
+                    "n_pred": 7760,
+                    "n_ref": 7631
+                },
+                "3": {
+                    "Dice": 0.9297756927136783,
+                    "FN": 418,
+                    "FP": 61,
+                    "IoU": 0.8687671232876713,
+                    "TN": 730174,
+                    "TP": 3171,
+                    "n_pred": 3232,
+                    "n_ref": 3589
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient124_frame07.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient124_frame07.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9729760417849438,
+                    "FN": 220,
+                    "FP": 256,
+                    "IoU": 0.9473742399115533,
+                    "TN": 563787,
+                    "TP": 8569,
+                    "n_pred": 8825,
+                    "n_ref": 8789
+                },
+                "2": {
+                    "Dice": 0.8989367193145452,
+                    "FN": 301,
+                    "FP": 678,
+                    "IoU": 0.8164260266266642,
+                    "TN": 567499,
+                    "TP": 4354,
+                    "n_pred": 5032,
+                    "n_ref": 4655
+                },
+                "3": {
+                    "Dice": 0.9701672921569875,
+                    "FN": 424,
+                    "FP": 45,
+                    "IoU": 0.9420630018529956,
+                    "TN": 564737,
+                    "TP": 7626,
+                    "n_pred": 7671,
+                    "n_ref": 8050
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient125_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient125_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8915474060822898,
+                    "FN": 774,
+                    "FP": 196,
+                    "IoU": 0.8043171272947347,
+                    "TN": 567875,
+                    "TP": 3987,
+                    "n_pred": 4183,
+                    "n_ref": 4761
+                },
+                "2": {
+                    "Dice": 0.9282843240956209,
+                    "FN": 396,
+                    "FP": 282,
+                    "IoU": 0.8661666008685354,
+                    "TN": 567766,
+                    "TP": 4388,
+                    "n_pred": 4670,
+                    "n_ref": 4784
+                },
+                "3": {
+                    "Dice": 0.9567703952901598,
+                    "FN": 141,
+                    "FP": 116,
+                    "IoU": 0.9171235085456304,
+                    "TN": 569731,
+                    "TP": 2844,
+                    "n_pred": 2960,
+                    "n_ref": 2985
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient125_frame07.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient125_frame07.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.933109833971903,
+                    "FN": 271,
+                    "FP": 1405,
+                    "IoU": 0.874607212329792,
+                    "TN": 565706,
+                    "TP": 11690,
+                    "n_pred": 13095,
+                    "n_ref": 11961
+                },
+                "2": {
+                    "Dice": 0.8738118649623074,
+                    "FN": 333,
+                    "FP": 437,
+                    "IoU": 0.7759022118742724,
+                    "TN": 575636,
+                    "TP": 2666,
+                    "n_pred": 3103,
+                    "n_ref": 2999
+                },
+                "3": {
+                    "Dice": 0.9487494100991033,
+                    "FN": 195,
+                    "FP": 348,
+                    "IoU": 0.9024959597773389,
+                    "TN": 573503,
+                    "TP": 5026,
+                    "n_pred": 5374,
+                    "n_ref": 5221
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient126_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient126_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9281944444444444,
+                    "FN": 289,
+                    "FP": 745,
+                    "IoU": 0.8660101075547493,
+                    "TN": 571355,
+                    "TP": 6683,
+                    "n_pred": 7428,
+                    "n_ref": 6972
+                },
+                "2": {
+                    "Dice": 0.9057812236642508,
+                    "FN": 368,
+                    "FP": 191,
+                    "IoU": 0.8277880468268638,
+                    "TN": 575826,
+                    "TP": 2687,
+                    "n_pred": 2878,
+                    "n_ref": 3055
+                },
+                "3": {
+                    "Dice": 0.9565400843881856,
+                    "FN": 73,
+                    "FP": 133,
+                    "IoU": 0.9167003639304488,
+                    "TN": 576599,
+                    "TP": 2267,
+                    "n_pred": 2400,
+                    "n_ref": 2340
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient126_frame07.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient126_frame07.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8810540842478807,
+                    "FN": 515,
+                    "FP": 3105,
+                    "IoU": 0.7873964879309332,
+                    "TN": 623197,
+                    "TP": 13407,
+                    "n_pred": 16512,
+                    "n_ref": 13922
+                },
+                "2": {
+                    "Dice": 0.8862791483609328,
+                    "FN": 845,
+                    "FP": 501,
+                    "IoU": 0.7957821271430738,
+                    "TN": 633633,
+                    "TP": 5245,
+                    "n_pred": 5746,
+                    "n_ref": 6090
+                },
+                "3": {
+                    "Dice": 0.9742883379247016,
+                    "FN": 415,
+                    "FP": 89,
+                    "IoU": 0.9498657117278424,
+                    "TN": 630171,
+                    "TP": 9549,
+                    "n_pred": 9638,
+                    "n_ref": 9964
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient127_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient127_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8660570199031737,
+                    "FN": 1178,
+                    "FP": 1312,
+                    "IoU": 0.7637571157495257,
+                    "TN": 629684,
+                    "TP": 8050,
+                    "n_pred": 9362,
+                    "n_ref": 9228
+                },
+                "2": {
+                    "Dice": 0.9315459212778094,
+                    "FN": 379,
+                    "FP": 341,
+                    "IoU": 0.8718633208756006,
+                    "TN": 634605,
+                    "TP": 4899,
+                    "n_pred": 5240,
+                    "n_ref": 5278
+                },
+                "3": {
+                    "Dice": 0.9674118563007452,
+                    "FN": 213,
+                    "FP": 80,
+                    "IoU": 0.9368806548901336,
+                    "TN": 635582,
+                    "TP": 4349,
+                    "n_pred": 4429,
+                    "n_ref": 4562
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient127_frame07.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient127_frame07.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9722697706264978,
+                    "FN": 192,
+                    "FP": 213,
+                    "IoU": 0.9460359760159893,
+                    "TN": 490159,
+                    "TP": 7100,
+                    "n_pred": 7313,
+                    "n_ref": 7292
+                },
+                "2": {
+                    "Dice": 0.9019441198342718,
+                    "FN": 264,
+                    "FP": 659,
+                    "IoU": 0.8214009287925697,
+                    "TN": 492496,
+                    "TP": 4245,
+                    "n_pred": 4904,
+                    "n_ref": 4509
+                },
+                "3": {
+                    "Dice": 0.9741142633023925,
+                    "FN": 346,
+                    "FP": 50,
+                    "IoU": 0.9495348540843634,
+                    "TN": 489817,
+                    "TP": 7451,
+                    "n_pred": 7501,
+                    "n_ref": 7797
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient128_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient128_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9386876108436787,
+                    "FN": 295,
+                    "FP": 189,
+                    "IoU": 0.8844592981618524,
+                    "TN": 493475,
+                    "TP": 3705,
+                    "n_pred": 3894,
+                    "n_ref": 4000
+                },
+                "2": {
+                    "Dice": 0.873308509672146,
+                    "FN": 274,
+                    "FP": 1121,
+                    "IoU": 0.7751088183137191,
+                    "TN": 491461,
+                    "TP": 4808,
+                    "n_pred": 5929,
+                    "n_ref": 5082
+                },
+                "3": {
+                    "Dice": 0.8467717021933889,
+                    "FN": 270,
+                    "FP": 722,
+                    "IoU": 0.7342619876774712,
+                    "TN": 493931,
+                    "TP": 2741,
+                    "n_pred": 3463,
+                    "n_ref": 3011
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient128_frame11.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient128_frame11.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9284235267782193,
+                    "FN": 1303,
+                    "FP": 1255,
+                    "IoU": 0.8664090244411949,
+                    "TN": 567284,
+                    "TP": 16590,
+                    "n_pred": 17845,
+                    "n_ref": 17893
+                },
+                "2": {
+                    "Dice": 0.8353727945361411,
+                    "FN": 963,
+                    "FP": 1351,
+                    "IoU": 0.7172877214416615,
+                    "TN": 578247,
+                    "TP": 5871,
+                    "n_pred": 7222,
+                    "n_ref": 6834
+                },
+                "3": {
+                    "Dice": 0.963199756440994,
+                    "FN": 781,
+                    "FP": 186,
+                    "IoU": 0.9290118925267948,
+                    "TN": 572810,
+                    "TP": 12655,
+                    "n_pred": 12841,
+                    "n_ref": 13436
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient129_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient129_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.902092050209205,
+                    "FN": 693,
+                    "FP": 1530,
+                    "IoU": 0.8216463414634146,
+                    "TN": 573968,
+                    "TP": 10241,
+                    "n_pred": 11771,
+                    "n_ref": 10934
+                },
+                "2": {
+                    "Dice": 0.8566205275528859,
+                    "FN": 1146,
+                    "FP": 1050,
+                    "IoU": 0.7492005481955231,
+                    "TN": 577676,
+                    "TP": 6560,
+                    "n_pred": 7610,
+                    "n_ref": 7706
+                },
+                "3": {
+                    "Dice": 0.9191673425250068,
+                    "FN": 749,
+                    "FP": 148,
+                    "IoU": 0.8504252126063031,
+                    "TN": 580435,
+                    "TP": 5100,
+                    "n_pred": 5248,
+                    "n_ref": 5849
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient129_frame08.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient129_frame08.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9745837723919916,
+                    "FN": 381,
+                    "FP": 222,
+                    "IoU": 0.950427490956922,
+                    "TN": 540796,
+                    "TP": 11561,
+                    "n_pred": 11783,
+                    "n_ref": 11942
+                },
+                "2": {
+                    "Dice": 0.9165605522418069,
+                    "FN": 320,
+                    "FP": 925,
+                    "IoU": 0.8459730298156625,
+                    "TN": 544877,
+                    "TP": 6838,
+                    "n_pred": 7763,
+                    "n_ref": 7158
+                },
+                "3": {
+                    "Dice": 0.9780278411020032,
+                    "FN": 365,
+                    "FP": 88,
+                    "IoU": 0.9570004746084481,
+                    "TN": 542425,
+                    "TP": 10082,
+                    "n_pred": 10170,
+                    "n_ref": 10447
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient130_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient130_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9364280387770321,
+                    "FN": 629,
+                    "FP": 53,
+                    "IoU": 0.88045574057844,
+                    "TN": 547255,
+                    "TP": 5023,
+                    "n_pred": 5076,
+                    "n_ref": 5652
+                },
+                "2": {
+                    "Dice": 0.9325331878523367,
+                    "FN": 253,
+                    "FP": 860,
+                    "IoU": 0.8735945485519591,
+                    "TN": 544155,
+                    "TP": 7692,
+                    "n_pred": 8552,
+                    "n_ref": 7945
+                },
+                "3": {
+                    "Dice": 0.9478531425015557,
+                    "FN": 348,
+                    "FP": 71,
+                    "IoU": 0.9008753252898036,
+                    "TN": 548733,
+                    "TP": 3808,
+                    "n_pred": 3879,
+                    "n_ref": 4156
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient130_frame11.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient130_frame11.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.954575986565911,
+                    "FN": 197,
+                    "FP": 885,
+                    "IoU": 0.9130993494498434,
+                    "TN": 535389,
+                    "TP": 11369,
+                    "n_pred": 12254,
+                    "n_ref": 11566
+                },
+                "2": {
+                    "Dice": 0.9002920975763796,
+                    "FN": 257,
+                    "FP": 1006,
+                    "IoU": 0.818664752333094,
+                    "TN": 540875,
+                    "TP": 5702,
+                    "n_pred": 6708,
+                    "n_ref": 5959
+                },
+                "3": {
+                    "Dice": 0.9840447405214244,
+                    "FN": 248,
+                    "FP": 140,
+                    "IoU": 0.968590625758925,
+                    "TN": 535487,
+                    "TP": 11965,
+                    "n_pred": 12105,
+                    "n_ref": 12213
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient131_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient131_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8368524104355188,
+                    "FN": 117,
+                    "FP": 2966,
+                    "IoU": 0.7194722474977252,
+                    "TN": 536850,
+                    "TP": 7907,
+                    "n_pred": 10873,
+                    "n_ref": 8024
+                },
+                "2": {
+                    "Dice": 0.9169081368940403,
+                    "FN": 233,
+                    "FP": 828,
+                    "IoU": 0.8465654374548084,
+                    "TN": 540925,
+                    "TP": 5854,
+                    "n_pred": 6682,
+                    "n_ref": 6087
+                },
+                "3": {
+                    "Dice": 0.9807820378650937,
+                    "FN": 323,
+                    "FP": 81,
+                    "IoU": 0.9622888079902921,
+                    "TN": 537127,
+                    "TP": 10309,
+                    "n_pred": 10390,
+                    "n_ref": 10632
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient131_frame09.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient131_frame09.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9753841410144406,
+                    "FN": 230,
+                    "FP": 249,
+                    "IoU": 0.9519510482495737,
+                    "TN": 583951,
+                    "TP": 9490,
+                    "n_pred": 9739,
+                    "n_ref": 9720
+                },
+                "2": {
+                    "Dice": 0.9149817295980511,
+                    "FN": 341,
+                    "FP": 1055,
+                    "IoU": 0.8432869330938483,
+                    "TN": 585012,
+                    "TP": 7512,
+                    "n_pred": 8567,
+                    "n_ref": 7853
+                },
+                "3": {
+                    "Dice": 0.977441502031666,
+                    "FN": 587,
+                    "FP": 57,
+                    "IoU": 0.9558783228281721,
+                    "TN": 579324,
+                    "TP": 13952,
+                    "n_pred": 14009,
+                    "n_ref": 14539
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient132_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient132_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9496004917025199,
+                    "FN": 606,
+                    "FP": 214,
+                    "IoU": 0.9040374488004681,
+                    "TN": 585375,
+                    "TP": 7725,
+                    "n_pred": 7939,
+                    "n_ref": 8331
+                },
+                "2": {
+                    "Dice": 0.910253346080306,
+                    "FN": 393,
+                    "FP": 1109,
+                    "IoU": 0.8352889571224915,
+                    "TN": 584801,
+                    "TP": 7617,
+                    "n_pred": 8726,
+                    "n_ref": 8010
+                },
+                "3": {
+                    "Dice": 0.9767833513773607,
+                    "FN": 442,
+                    "FP": 137,
+                    "IoU": 0.9546202680460851,
+                    "TN": 581161,
+                    "TP": 12180,
+                    "n_pred": 12317,
+                    "n_ref": 12622
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient132_frame15.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient132_frame15.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9240264148614454,
+                    "FN": 471,
+                    "FP": 760,
+                    "IoU": 0.8587816909487209,
+                    "TN": 564723,
+                    "TP": 7486,
+                    "n_pred": 8246,
+                    "n_ref": 7957
+                },
+                "2": {
+                    "Dice": 0.8231300913354728,
+                    "FN": 1191,
+                    "FP": 1675,
+                    "IoU": 0.6994231777661248,
+                    "TN": 563905,
+                    "TP": 6669,
+                    "n_pred": 8344,
+                    "n_ref": 7860
+                },
+                "3": {
+                    "Dice": 0.9590928019989109,
+                    "FN": 311,
+                    "FP": 966,
+                    "IoU": 0.921400874007509,
+                    "TN": 557193,
+                    "TP": 14970,
+                    "n_pred": 15936,
+                    "n_ref": 15281
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient133_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient133_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9342821999648568,
+                    "FN": 360,
+                    "FP": 388,
+                    "IoU": 0.8766694146743611,
+                    "TN": 567375,
+                    "TP": 5317,
+                    "n_pred": 5705,
+                    "n_ref": 5677
+                },
+                "2": {
+                    "Dice": 0.8531227736879601,
+                    "FN": 1063,
+                    "FP": 1411,
+                    "IoU": 0.7438658246195259,
+                    "TN": 563781,
+                    "TP": 7185,
+                    "n_pred": 8596,
+                    "n_ref": 8248
+                },
+                "3": {
+                    "Dice": 0.9554299586541745,
+                    "FN": 410,
+                    "FP": 765,
+                    "IoU": 0.9146633742464958,
+                    "TN": 559671,
+                    "TP": 12594,
+                    "n_pred": 13359,
+                    "n_ref": 13004
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient133_frame10.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient133_frame10.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9019692707206233,
+                    "FN": 367,
+                    "FP": 992,
+                    "IoU": 0.8214426487977927,
+                    "TN": 600645,
+                    "TP": 6252,
+                    "n_pred": 7244,
+                    "n_ref": 6619
+                },
+                "2": {
+                    "Dice": 0.8850546380741106,
+                    "FN": 264,
+                    "FP": 1135,
+                    "IoU": 0.7938098747236552,
+                    "TN": 601471,
+                    "TP": 5386,
+                    "n_pred": 6521,
+                    "n_ref": 5650
+                },
+                "3": {
+                    "Dice": 0.9042304230423043,
+                    "FN": 296,
+                    "FP": 768,
+                    "IoU": 0.8252012485625103,
+                    "TN": 602169,
+                    "TP": 5023,
+                    "n_pred": 5791,
+                    "n_ref": 5319
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient134_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient134_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8216501650165017,
+                    "FN": 507,
+                    "FP": 844,
+                    "IoU": 0.6972888191799238,
+                    "TN": 603793,
+                    "TP": 3112,
+                    "n_pred": 3956,
+                    "n_ref": 3619
+                },
+                "2": {
+                    "Dice": 0.8863554886355489,
+                    "FN": 155,
+                    "FP": 1430,
+                    "IoU": 0.7959052279165594,
+                    "TN": 600490,
+                    "TP": 6181,
+                    "n_pred": 7611,
+                    "n_ref": 6336
+                },
+                "3": {
+                    "Dice": 0.7205679353184776,
+                    "FN": 183,
+                    "FP": 1234,
+                    "IoU": 0.563193588162762,
+                    "TN": 605012,
+                    "TP": 1827,
+                    "n_pred": 3061,
+                    "n_ref": 2010
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient134_frame15.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient134_frame15.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.935948905109489,
+                    "FN": 321,
+                    "FP": 381,
+                    "IoU": 0.8796089864517236,
+                    "TN": 547129,
+                    "TP": 5129,
+                    "n_pred": 5510,
+                    "n_ref": 5450
+                },
+                "2": {
+                    "Dice": 0.8850239533430535,
+                    "FN": 908,
+                    "FP": 196,
+                    "IoU": 0.7937605081262843,
+                    "TN": 547607,
+                    "TP": 4249,
+                    "n_pred": 4445,
+                    "n_ref": 5157
+                },
+                "3": {
+                    "Dice": 0.9674090523153288,
+                    "FN": 66,
+                    "FP": 433,
+                    "IoU": 0.9368753953194181,
+                    "TN": 545055,
+                    "TP": 7406,
+                    "n_pred": 7839,
+                    "n_ref": 7472
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient135_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient135_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8676900584795322,
+                    "FN": 342,
+                    "FP": 382,
+                    "IoU": 0.7663008392511298,
+                    "TN": 549862,
+                    "TP": 2374,
+                    "n_pred": 2756,
+                    "n_ref": 2716
+                },
+                "2": {
+                    "Dice": 0.9067930489731437,
+                    "FN": 786,
+                    "FP": 158,
+                    "IoU": 0.8294797687861272,
+                    "TN": 547424,
+                    "TP": 4592,
+                    "n_pred": 4750,
+                    "n_ref": 5378
+                },
+                "3": {
+                    "Dice": 0.9660395797703396,
+                    "FN": 47,
+                    "FP": 370,
+                    "IoU": 0.9343100189035917,
+                    "TN": 546612,
+                    "TP": 5931,
+                    "n_pred": 6301,
+                    "n_ref": 5978
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient135_frame10.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient135_frame10.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.964322696036901,
+                    "FN": 203,
+                    "FP": 176,
+                    "IoU": 0.9311034357389566,
+                    "TN": 547459,
+                    "TP": 5122,
+                    "n_pred": 5298,
+                    "n_ref": 5325
+                },
+                "2": {
+                    "Dice": 0.8874780720073511,
+                    "FN": 394,
+                    "FP": 953,
+                    "IoU": 0.7977173749812284,
+                    "TN": 546301,
+                    "TP": 5312,
+                    "n_pred": 6265,
+                    "n_ref": 5706
+                },
+                "3": {
+                    "Dice": 0.9750292625829107,
+                    "FN": 337,
+                    "FP": 175,
+                    "IoU": 0.9512752188808526,
+                    "TN": 542452,
+                    "TP": 9996,
+                    "n_pred": 10171,
+                    "n_ref": 10333
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient136_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient136_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9398095852832016,
+                    "FN": 243,
+                    "FP": 130,
+                    "IoU": 0.8864535768645357,
+                    "TN": 549675,
+                    "TP": 2912,
+                    "n_pred": 3042,
+                    "n_ref": 3155
+                },
+                "2": {
+                    "Dice": 0.9094352617079889,
+                    "FN": 288,
+                    "FP": 764,
+                    "IoU": 0.8339122197663403,
+                    "TN": 546626,
+                    "TP": 5282,
+                    "n_pred": 6046,
+                    "n_ref": 5570
+                },
+                "3": {
+                    "Dice": 0.972460306308838,
+                    "FN": 298,
+                    "FP": 94,
+                    "IoU": 0.9463968275673458,
+                    "TN": 545647,
+                    "TP": 6921,
+                    "n_pred": 7015,
+                    "n_ref": 7219
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient136_frame12.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient136_frame12.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9608309348016518,
+                    "FN": 342,
+                    "FP": 284,
+                    "IoU": 0.9246146435452793,
+                    "TN": 489360,
+                    "TP": 7678,
+                    "n_pred": 7962,
+                    "n_ref": 8020
+                },
+                "2": {
+                    "Dice": 0.872171169935537,
+                    "FN": 450,
+                    "FP": 1414,
+                    "IoU": 0.7733187401191779,
+                    "TN": 489441,
+                    "TP": 6359,
+                    "n_pred": 7773,
+                    "n_ref": 6809
+                },
+                "3": {
+                    "Dice": 0.9246083268415131,
+                    "FN": 174,
+                    "FP": 1568,
+                    "IoU": 0.8597875080489376,
+                    "TN": 485240,
+                    "TP": 10682,
+                    "n_pred": 12250,
+                    "n_ref": 10856
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient137_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient137_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9165798912414671,
+                    "FN": 472,
+                    "FP": 249,
+                    "IoU": 0.8460059803502776,
+                    "TN": 492982,
+                    "TP": 3961,
+                    "n_pred": 4210,
+                    "n_ref": 4433
+                },
+                "2": {
+                    "Dice": 0.8954957102001907,
+                    "FN": 1033,
+                    "FP": 721,
+                    "IoU": 0.8107670730391628,
+                    "TN": 488395,
+                    "TP": 7515,
+                    "n_pred": 8236,
+                    "n_ref": 8548
+                },
+                "3": {
+                    "Dice": 0.9380192632894641,
+                    "FN": 135,
+                    "FP": 708,
+                    "IoU": 0.8832733314871227,
+                    "TN": 490442,
+                    "TP": 6379,
+                    "n_pred": 7087,
+                    "n_ref": 6514
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient137_frame11.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient137_frame11.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.917603822124219,
+                    "FN": 460,
+                    "FP": 661,
+                    "IoU": 0.8477522748879532,
+                    "TN": 490301,
+                    "TP": 6242,
+                    "n_pred": 6903,
+                    "n_ref": 6702
+                },
+                "2": {
+                    "Dice": 0.945230960008267,
+                    "FN": 410,
+                    "FP": 650,
+                    "IoU": 0.896149701185461,
+                    "TN": 487457,
+                    "TP": 9147,
+                    "n_pred": 9797,
+                    "n_ref": 9557
+                },
+                "3": {
+                    "Dice": 0.9681085304354002,
+                    "FN": 349,
+                    "FP": 100,
+                    "IoU": 0.9381883259911894,
+                    "TN": 490400,
+                    "TP": 6815,
+                    "n_pred": 6915,
+                    "n_ref": 7164
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient138_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient138_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8106868168938065,
+                    "FN": 728,
+                    "FP": 675,
+                    "IoU": 0.6816428409348764,
+                    "TN": 493257,
+                    "TP": 3004,
+                    "n_pred": 3679,
+                    "n_ref": 3732
+                },
+                "2": {
+                    "Dice": 0.9497562351424312,
+                    "FN": 638,
+                    "FP": 609,
+                    "IoU": 0.904319803575539,
+                    "TN": 484631,
+                    "TP": 11786,
+                    "n_pred": 12395,
+                    "n_ref": 12424
+                },
+                "3": {
+                    "Dice": 0.8783223603999024,
+                    "FN": 419,
+                    "FP": 80,
+                    "IoU": 0.7830434782608696,
+                    "TN": 495364,
+                    "TP": 1801,
+                    "n_pred": 1881,
+                    "n_ref": 2220
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient138_frame10.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient138_frame10.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9741487074353717,
+                    "FN": 225,
+                    "FP": 292,
+                    "IoU": 0.9496003119516475,
+                    "TN": 568814,
+                    "TP": 9741,
+                    "n_pred": 10033,
+                    "n_ref": 9966
+                },
+                "2": {
+                    "Dice": 0.8757047445572036,
+                    "FN": 902,
+                    "FP": 531,
+                    "IoU": 0.7788921462737232,
+                    "TN": 572591,
+                    "TP": 5048,
+                    "n_pred": 5579,
+                    "n_ref": 5950
+                },
+                "3": {
+                    "Dice": 0.9694059405940594,
+                    "FN": 324,
+                    "FP": 294,
+                    "IoU": 0.9406283024305889,
+                    "TN": 568663,
+                    "TP": 9791,
+                    "n_pred": 10085,
+                    "n_ref": 10115
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient139_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient139_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9548289548289548,
+                    "FN": 250,
+                    "FP": 228,
+                    "IoU": 0.9135623869801085,
+                    "TN": 573542,
+                    "TP": 5052,
+                    "n_pred": 5280,
+                    "n_ref": 5302
+                },
+                "2": {
+                    "Dice": 0.9251203719076871,
+                    "FN": 617,
+                    "FP": 285,
+                    "IoU": 0.8606734630831017,
+                    "TN": 572598,
+                    "TP": 5572,
+                    "n_pred": 5857,
+                    "n_ref": 6189
+                },
+                "3": {
+                    "Dice": 0.9610631229235881,
+                    "FN": 79,
+                    "FP": 214,
+                    "IoU": 0.925044768482988,
+                    "TN": 575163,
+                    "TP": 3616,
+                    "n_pred": 3830,
+                    "n_ref": 3695
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient139_frame08.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient139_frame08.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9365323992994746,
+                    "FN": 1427,
+                    "FP": 2197,
+                    "IoU": 0.8806402740267439,
+                    "TN": 693478,
+                    "TP": 26738,
+                    "n_pred": 28935,
+                    "n_ref": 28165
+                },
+                "2": {
+                    "Dice": 0.8402493029358701,
+                    "FN": 481,
+                    "FP": 1467,
+                    "IoU": 0.7245085560741055,
+                    "TN": 716769,
+                    "TP": 5123,
+                    "n_pred": 6590,
+                    "n_ref": 5604
+                },
+                "3": {
+                    "Dice": 0.9409456543064548,
+                    "FN": 684,
+                    "FP": 520,
+                    "IoU": 0.8884772137828826,
+                    "TN": 713044,
+                    "TP": 9592,
+                    "n_pred": 10112,
+                    "n_ref": 10276
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient140_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient140_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9361085651775419,
+                    "FN": 1267,
+                    "FP": 894,
+                    "IoU": 0.8798910626945309,
+                    "TN": 705848,
+                    "TP": 15831,
+                    "n_pred": 16725,
+                    "n_ref": 17098
+                },
+                "2": {
+                    "Dice": 0.8904657042655575,
+                    "FN": 330,
+                    "FP": 1013,
+                    "IoU": 0.8025580711555425,
+                    "TN": 717038,
+                    "TP": 5459,
+                    "n_pred": 6472,
+                    "n_ref": 5789
+                },
+                "3": {
+                    "Dice": 0.9081531877537584,
+                    "FN": 404,
+                    "FP": 433,
+                    "IoU": 0.8317587939698492,
+                    "TN": 718865,
+                    "TP": 4138,
+                    "n_pred": 4571,
+                    "n_ref": 4542
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient140_frame09.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient140_frame09.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9744148371599352,
+                    "FN": 747,
+                    "FP": 169,
+                    "IoU": 0.950106214935454,
+                    "TN": 534601,
+                    "TP": 17443,
+                    "n_pred": 17612,
+                    "n_ref": 18190
+                },
+                "2": {
+                    "Dice": 0.9109542685874504,
+                    "FN": 276,
+                    "FP": 645,
+                    "IoU": 0.8364701704545454,
+                    "TN": 547328,
+                    "TP": 4711,
+                    "n_pred": 5356,
+                    "n_ref": 4987
+                },
+                "3": {
+                    "Dice": 0.9571116303610462,
+                    "FN": 149,
+                    "FP": 420,
+                    "IoU": 0.9177507950274646,
+                    "TN": 546042,
+                    "TP": 6349,
+                    "n_pred": 6769,
+                    "n_ref": 6498
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient141_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient141_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9469529334369954,
+                    "FN": 720,
+                    "FP": 167,
+                    "IoU": 0.8992503407542026,
+                    "TN": 544156,
+                    "TP": 7917,
+                    "n_pred": 8084,
+                    "n_ref": 8637
+                },
+                "2": {
+                    "Dice": 0.9282554337372572,
+                    "FN": 125,
+                    "FP": 621,
+                    "IoU": 0.866116295764537,
+                    "TN": 547388,
+                    "TP": 4826,
+                    "n_pred": 5447,
+                    "n_ref": 4951
+                },
+                "3": {
+                    "Dice": 0.9329664832416208,
+                    "FN": 244,
+                    "FP": 24,
+                    "IoU": 0.8743553680262541,
+                    "TN": 550827,
+                    "TP": 1865,
+                    "n_pred": 1889,
+                    "n_ref": 2109
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient141_frame11.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient141_frame11.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8746848381601363,
+                    "FN": 1499,
+                    "FP": 340,
+                    "IoU": 0.7772798837350127,
+                    "TN": 434111,
+                    "TP": 6418,
+                    "n_pred": 6758,
+                    "n_ref": 7917
+                },
+                "2": {
+                    "Dice": 0.8587896253602305,
+                    "FN": 1185,
+                    "FP": 530,
+                    "IoU": 0.7525252525252525,
+                    "TN": 435438,
+                    "TP": 5215,
+                    "n_pred": 5745,
+                    "n_ref": 6400
+                },
+                "3": {
+                    "Dice": 0.9440739752822975,
+                    "FN": 472,
+                    "FP": 157,
+                    "IoU": 0.8940720781407882,
+                    "TN": 436430,
+                    "TP": 5309,
+                    "n_pred": 5466,
+                    "n_ref": 5781
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient142_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient142_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8092596135450545,
+                    "FN": 838,
+                    "FP": 159,
+                    "IoU": 0.6796272493573264,
+                    "TN": 439256,
+                    "TP": 2115,
+                    "n_pred": 2274,
+                    "n_ref": 2953
+                },
+                "2": {
+                    "Dice": 0.8526013584482879,
+                    "FN": 1581,
+                    "FP": 524,
+                    "IoU": 0.7430733553033076,
+                    "TN": 434175,
+                    "TP": 6088,
+                    "n_pred": 6612,
+                    "n_ref": 7669
+                },
+                "3": {
+                    "Dice": 0.897095027080256,
+                    "FN": 155,
+                    "FP": 54,
+                    "IoU": 0.8133928571428571,
+                    "TN": 441248,
+                    "TP": 911,
+                    "n_pred": 965,
+                    "n_ref": 1066
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient142_frame12.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient142_frame12.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9596592332748685,
+                    "FN": 524,
+                    "FP": 120,
+                    "IoU": 0.9224470134874759,
+                    "TN": 544656,
+                    "TP": 7660,
+                    "n_pred": 7780,
+                    "n_ref": 8184
+                },
+                "2": {
+                    "Dice": 0.9061477117181456,
+                    "FN": 552,
+                    "FP": 1025,
+                    "IoU": 0.8284004352557127,
+                    "TN": 543770,
+                    "TP": 7613,
+                    "n_pred": 8638,
+                    "n_ref": 8165
+                },
+                "3": {
+                    "Dice": 0.9738452977184195,
+                    "FN": 545,
+                    "FP": 160,
+                    "IoU": 0.9490238611713666,
+                    "TN": 539130,
+                    "TP": 13125,
+                    "n_pred": 13285,
+                    "n_ref": 13670
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient143_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient143_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8865303574215702,
+                    "FN": 519,
+                    "FP": 208,
+                    "IoU": 0.7961872722175498,
+                    "TN": 549393,
+                    "TP": 2840,
+                    "n_pred": 3048,
+                    "n_ref": 3359
+                },
+                "2": {
+                    "Dice": 0.9177232263285676,
+                    "FN": 639,
+                    "FP": 886,
+                    "IoU": 0.8479561316051845,
+                    "TN": 542930,
+                    "TP": 8505,
+                    "n_pred": 9391,
+                    "n_ref": 9144
+                },
+                "3": {
+                    "Dice": 0.9694207586004117,
+                    "FN": 340,
+                    "FP": 284,
+                    "IoU": 0.9406562054208274,
+                    "TN": 542445,
+                    "TP": 9891,
+                    "n_pred": 10175,
+                    "n_ref": 10231
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient143_frame12.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient143_frame12.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8416805543373388,
+                    "FN": 101,
+                    "FP": 1704,
+                    "IoU": 0.7266394063304559,
+                    "TN": 431669,
+                    "TP": 4798,
+                    "n_pred": 6502,
+                    "n_ref": 4899
+                },
+                "2": {
+                    "Dice": 0.9129811140329906,
+                    "FN": 141,
+                    "FP": 587,
+                    "IoU": 0.8398944358917968,
+                    "TN": 433725,
+                    "TP": 3819,
+                    "n_pred": 4406,
+                    "n_ref": 3960
+                },
+                "3": {
+                    "Dice": 0.9721435747556855,
+                    "FN": 269,
+                    "FP": 36,
+                    "IoU": 0.9457970499377999,
+                    "TN": 432645,
+                    "TP": 5322,
+                    "n_pred": 5358,
+                    "n_ref": 5591
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient144_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient144_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7985562824272502,
+                    "FN": 760,
+                    "FP": 133,
+                    "IoU": 0.6646639128802103,
+                    "TN": 435609,
+                    "TP": 1770,
+                    "n_pred": 1903,
+                    "n_ref": 2530
+                },
+                "2": {
+                    "Dice": 0.9152655606279925,
+                    "FN": 183,
+                    "FP": 578,
+                    "IoU": 0.843769246561281,
+                    "TN": 433401,
+                    "TP": 4110,
+                    "n_pred": 4688,
+                    "n_ref": 4293
+                },
+                "3": {
+                    "Dice": 0.9305423406279734,
+                    "FN": 173,
+                    "FP": 46,
+                    "IoU": 0.8701067615658363,
+                    "TN": 436586,
+                    "TP": 1467,
+                    "n_pred": 1513,
+                    "n_ref": 1640
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient144_frame09.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient144_frame09.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8882864888001142,
+                    "FN": 105,
+                    "FP": 678,
+                    "IoU": 0.7990246406570842,
+                    "TN": 590024,
+                    "TP": 3113,
+                    "n_pred": 3791,
+                    "n_ref": 3218
+                },
+                "2": {
+                    "Dice": 0.9059273698649917,
+                    "FN": 673,
+                    "FP": 630,
+                    "IoU": 0.8280322027187541,
+                    "TN": 586343,
+                    "TP": 6274,
+                    "n_pred": 6904,
+                    "n_ref": 6947
+                },
+                "3": {
+                    "Dice": 0.9541625017849493,
+                    "FN": 253,
+                    "FP": 389,
+                    "IoU": 0.9123429819770618,
+                    "TN": 586596,
+                    "TP": 6682,
+                    "n_pred": 7071,
+                    "n_ref": 6935
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient145_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient145_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.882305413412335,
+                    "FN": 261,
+                    "FP": 176,
+                    "IoU": 0.7893975903614457,
+                    "TN": 591845,
+                    "TP": 1638,
+                    "n_pred": 1814,
+                    "n_ref": 1899
+                },
+                "2": {
+                    "Dice": 0.9275875639512003,
+                    "FN": 578,
+                    "FP": 526,
+                    "IoU": 0.864954128440367,
+                    "TN": 585745,
+                    "TP": 7071,
+                    "n_pred": 7597,
+                    "n_ref": 7649
+                },
+                "3": {
+                    "Dice": 0.9632346363717685,
+                    "FN": 198,
+                    "FP": 213,
+                    "IoU": 0.9290767903364969,
+                    "TN": 588125,
+                    "TP": 5384,
+                    "n_pred": 5597,
+                    "n_ref": 5582
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient145_frame13.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient145_frame13.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.965684785909505,
+                    "FN": 353,
+                    "FP": 99,
+                    "IoU": 0.9336465061655901,
+                    "TN": 527716,
+                    "TP": 6360,
+                    "n_pred": 6459,
+                    "n_ref": 6713
+                },
+                "2": {
+                    "Dice": 0.9312152991980259,
+                    "FN": 481,
+                    "FP": 411,
+                    "IoU": 0.8712842712842713,
+                    "TN": 527598,
+                    "TP": 6038,
+                    "n_pred": 6449,
+                    "n_ref": 6519
+                },
+                "3": {
+                    "Dice": 0.9746483111412021,
+                    "FN": 166,
+                    "FP": 171,
+                    "IoU": 0.9505502567865004,
+                    "TN": 527713,
+                    "TP": 6478,
+                    "n_pred": 6649,
+                    "n_ref": 6644
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient146_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient146_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8930170098478066,
+                    "FN": 406,
+                    "FP": 72,
+                    "IoU": 0.8067124949454104,
+                    "TN": 532055,
+                    "TP": 1995,
+                    "n_pred": 2067,
+                    "n_ref": 2401
+                },
+                "2": {
+                    "Dice": 0.9341825902335457,
+                    "FN": 506,
+                    "FP": 517,
+                    "IoU": 0.8764940239043825,
+                    "TN": 526245,
+                    "TP": 7260,
+                    "n_pred": 7777,
+                    "n_ref": 7766
+                },
+                "3": {
+                    "Dice": 0.8793412101682778,
+                    "FN": 45,
+                    "FP": 292,
+                    "IoU": 0.7846645367412141,
+                    "TN": 532963,
+                    "TP": 1228,
+                    "n_pred": 1520,
+                    "n_ref": 1273
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient146_frame10.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient146_frame10.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9710823193260751,
+                    "FN": 813,
+                    "FP": 361,
+                    "IoU": 0.9437900986306617,
+                    "TN": 981354,
+                    "TP": 19712,
+                    "n_pred": 20073,
+                    "n_ref": 20525
+                },
+                "2": {
+                    "Dice": 0.8926829268292683,
+                    "FN": 856,
+                    "FP": 596,
+                    "IoU": 0.8061674008810573,
+                    "TN": 994749,
+                    "TP": 6039,
+                    "n_pred": 6635,
+                    "n_ref": 6895
+                },
+                "3": {
+                    "Dice": 0.9710823808631566,
+                    "FN": 327,
+                    "FP": 136,
+                    "IoU": 0.9437902148840597,
+                    "TN": 994003,
+                    "TP": 7774,
+                    "n_pred": 7910,
+                    "n_ref": 8101
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient147_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient147_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9435705007937654,
+                    "FN": 1006,
+                    "FP": 167,
+                    "IoU": 0.8931693989071038,
+                    "TN": 991260,
+                    "TP": 9807,
+                    "n_pred": 9974,
+                    "n_ref": 10813
+                },
+                "2": {
+                    "Dice": 0.9330690826727067,
+                    "FN": 674,
+                    "FP": 508,
+                    "IoU": 0.8745356119307929,
+                    "TN": 992819,
+                    "TP": 8239,
+                    "n_pred": 8747,
+                    "n_ref": 8913
+                },
+                "3": {
+                    "Dice": 0.9218106995884774,
+                    "FN": 120,
+                    "FP": 241,
+                    "IoU": 0.8549618320610687,
+                    "TN": 999751,
+                    "TP": 2128,
+                    "n_pred": 2369,
+                    "n_ref": 2248
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient147_frame09.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient147_frame09.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9507757134648535,
+                    "FN": 169,
+                    "FP": 345,
+                    "IoU": 0.9061701350857977,
+                    "TN": 387738,
+                    "TP": 4964,
+                    "n_pred": 5309,
+                    "n_ref": 5133
+                },
+                "2": {
+                    "Dice": 0.9014296463506396,
+                    "FN": 263,
+                    "FP": 654,
+                    "IoU": 0.8205479452054795,
+                    "TN": 388106,
+                    "TP": 4193,
+                    "n_pred": 4847,
+                    "n_ref": 4456
+                },
+                "3": {
+                    "Dice": 0.9682118200440027,
+                    "FN": 183,
+                    "FP": 236,
+                    "IoU": 0.9383823529411764,
+                    "TN": 386416,
+                    "TP": 6381,
+                    "n_pred": 6617,
+                    "n_ref": 6564
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient148_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient148_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9442119944211994,
+                    "FN": 82,
+                    "FP": 318,
+                    "IoU": 0.8943196829590488,
+                    "TN": 389431,
+                    "TP": 3385,
+                    "n_pred": 3703,
+                    "n_ref": 3467
+                },
+                "2": {
+                    "Dice": 0.9072967074675017,
+                    "FN": 283,
+                    "FP": 694,
+                    "IoU": 0.8303230288294546,
+                    "TN": 387458,
+                    "TP": 4781,
+                    "n_pred": 5475,
+                    "n_ref": 5064
+                },
+                "3": {
+                    "Dice": 0.9474725274725275,
+                    "FN": 296,
+                    "FP": 182,
+                    "IoU": 0.9001879306744623,
+                    "TN": 388427,
+                    "TP": 4311,
+                    "n_pred": 4493,
+                    "n_ref": 4607
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient148_frame10.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient148_frame10.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9314929463107683,
+                    "FN": 495,
+                    "FP": 855,
+                    "IoU": 0.8717705167173252,
+                    "TN": 537312,
+                    "TP": 9178,
+                    "n_pred": 10033,
+                    "n_ref": 9673
+                },
+                "2": {
+                    "Dice": 0.9158448876696078,
+                    "FN": 253,
+                    "FP": 882,
+                    "IoU": 0.844754479551361,
+                    "TN": 540529,
+                    "TP": 6176,
+                    "n_pred": 7058,
+                    "n_ref": 6429
+                },
+                "3": {
+                    "Dice": 0.9848406626930117,
+                    "FN": 221,
+                    "FP": 102,
+                    "IoU": 0.9701340730466944,
+                    "TN": 537025,
+                    "TP": 10492,
+                    "n_pred": 10594,
+                    "n_ref": 10713
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient149_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient149_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9322131430544367,
+                    "FN": 299,
+                    "FP": 290,
+                    "IoU": 0.8730329812459582,
+                    "TN": 543201,
+                    "TP": 4050,
+                    "n_pred": 4340,
+                    "n_ref": 4349
+                },
+                "2": {
+                    "Dice": 0.9235239917782976,
+                    "FN": 171,
+                    "FP": 908,
+                    "IoU": 0.8579141427442718,
+                    "TN": 540246,
+                    "TP": 6515,
+                    "n_pred": 7423,
+                    "n_ref": 6686
+                },
+                "3": {
+                    "Dice": 0.9520283576211107,
+                    "FN": 220,
+                    "FP": 389,
+                    "IoU": 0.9084485868911606,
+                    "TN": 541188,
+                    "TP": 6043,
+                    "n_pred": 6432,
+                    "n_ref": 6263
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient149_frame12.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient149_frame12.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9740704500978473,
+                    "FN": 204,
+                    "FP": 114,
+                    "IoU": 0.9494515975202671,
+                    "TN": 436077,
+                    "TP": 5973,
+                    "n_pred": 6087,
+                    "n_ref": 6177
+                },
+                "2": {
+                    "Dice": 0.9149430629793167,
+                    "FN": 365,
+                    "FP": 367,
+                    "IoU": 0.8432212465195973,
+                    "TN": 437699,
+                    "TP": 3937,
+                    "n_pred": 4304,
+                    "n_ref": 4302
+                },
+                "3": {
+                    "Dice": 0.9756569401902305,
+                    "FN": 252,
+                    "FP": 50,
+                    "IoU": 0.952470884482216,
+                    "TN": 436014,
+                    "TP": 6052,
+                    "n_pred": 6102,
+                    "n_ref": 6304
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient150_frame01.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient150_frame01.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9159763313609467,
+                    "FN": 150,
+                    "FP": 347,
+                    "IoU": 0.8449781659388647,
+                    "TN": 439162,
+                    "TP": 2709,
+                    "n_pred": 3056,
+                    "n_ref": 2859
+                },
+                "2": {
+                    "Dice": 0.9334098737083811,
+                    "FN": 378,
+                    "FP": 318,
+                    "IoU": 0.8751345532831001,
+                    "TN": 436794,
+                    "TP": 4878,
+                    "n_pred": 5196,
+                    "n_ref": 5256
+                },
+                "3": {
+                    "Dice": 0.9148673658235656,
+                    "FN": 110,
+                    "FP": 166,
+                    "IoU": 0.8430926662876634,
+                    "TN": 440609,
+                    "TP": 1483,
+                    "n_pred": 1649,
+                    "n_ref": 1593
+                }
+            },
+            "prediction_file": "DL_Medical_Image/DLMIA-ACDC/nnU-net/patient150_frame12.nii.gz",
+            "reference_file": "DL_Medical_Image/nnUNet_raw/Dataset027_ACDC/labelsTs/patient150_frame12.nii.gz"
+        }
+    ]
+}

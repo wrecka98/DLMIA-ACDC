@@ -6,3 +6,9 @@
 *.fatbin
 wandb
 *.pt*
+*.nii
+*.gz
+*.pk*
+*.npz
+data
+specific_slices
